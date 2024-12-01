@@ -45,8 +45,8 @@
 
 - **Back-End Development**:
 
-   ![JAVA]
-   ![SPRING](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpicodotdev.github.io%2Fblog-bitix%2F2015%2F10%2Faplicacion-java-autocontenida-con-spring-boot%2F&psig=AOvVaw3QF6J2Bm5849jteNeLUPk3&ust=1733159259026000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMiH472Hh4oDFQAAAAAdAAAAABAE)
+   ![SPRING](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+   ![SPRING](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 <br>
 
