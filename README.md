@@ -45,8 +45,8 @@
 
 - **Back-End Development**:
 
-   ![JAVA](style=for-the-badge&logo=c&logoColor=white)
-   ![SPRING](style=for-the-badge&logo=c&logoColor=white)
+   ![JAVA]([style=for-the-badge&logo=c&logoColor=white](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white))
+   ![SPRING]([style=for-the-badge&logo=c&logoColor=white](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white))
 
 <br>
 
