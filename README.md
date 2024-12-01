@@ -45,8 +45,8 @@
 
 - **Back-End Development**:
 
-   ![JAVA](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+   ![JAVA](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.animsa.es%2Fnoticias%2Fjava-cafe-para-todos%2F&psig=AOvVaw02uEno7_J6PmwqSBecrIEq&ust=1733159314752000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNi48teHh4oDFQAAAAAdAAAAABAE)
+   ![CSS3](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpicodotdev.github.io%2Fblog-bitix%2F2015%2F10%2Faplicacion-java-autocontenida-con-spring-boot%2F&psig=AOvVaw3QF6J2Bm5849jteNeLUPk3&ust=1733159259026000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMiH472Hh4oDFQAAAAAdAAAAABAE)
 
 <br>
 
