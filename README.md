@@ -15,7 +15,7 @@
 <br>
 
 - A passionate Self-taught Front-end developer
-- Currently learning Web Development by Self
+- Currently learning Web Development by Myself
 - I’m currently open for an Intern or a new job opportunity, this is [my CV](https://read.cv/0xabdulkhalid)
 
 <br><br>
