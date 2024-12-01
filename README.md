@@ -8,7 +8,7 @@
 
 
 	
-<h2>**About me**</h2>
+<h2>About me</h2>
 
 <br>
 
