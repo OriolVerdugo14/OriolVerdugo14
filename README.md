@@ -45,8 +45,8 @@
 
 - **Back-End Development**:
 
-   ![JAVA]()
-   ![SPRING]()
+   ![JAVA](style=for-the-badge&logo=c&logoColor=white)
+   ![SPRING](style=for-the-badge&logo=c&logoColor=white)
 
 <br>
 
