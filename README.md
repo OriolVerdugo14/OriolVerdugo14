@@ -16,7 +16,7 @@
 
 - A passionate Self-taught Front-end developer
 - Currently learning Web Development by Myself
-- I’m currently open for an Intern or a new job opportunity, this is [my CV](https://drive.google.com/file/d/19knWREHOcgSfcxI5wYAT97WOfcwTRlfW/view)
+- I’m currently open for an Intern or a new job opportunity, this is [my CV](https://drive.google.com/file/d/1WzL9yIV2ZY2TiLGxaaQ56ih_XzPVujDz/view)
 
 <br>
 
