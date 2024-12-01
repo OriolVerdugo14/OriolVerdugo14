@@ -45,8 +45,8 @@
 
 - **Back-End Development**:
 
-   ![JAVA](background-color: white)
-   ![SPRING](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+   ![JAVA]()
+   ![SPRING]()
 
 <br>
 
