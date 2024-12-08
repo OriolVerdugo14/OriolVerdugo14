@@ -7,8 +7,8 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Currently learning Web Development by Myself
+- A passionate Front-end developer, but I can Back-end program too!
+- Currently finishing my Web Development studies
 - I’m currently open for an Intern or a new job opportunity, this is [my CV](https://drive.google.com/file/d/1WzL9yIV2ZY2TiLGxaaQ56ih_XzPVujDz/view)
 
 <br>
