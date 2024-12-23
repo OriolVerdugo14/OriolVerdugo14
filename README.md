@@ -9,7 +9,7 @@
 
 - A passionate Front-end developer, but I can Back-end program too!
 - Currently finishing my Web Development studies
-- I’m currently open for an Intern or a new job opportunity, this is [my CV](https://drive.google.com/file/d/1WzL9yIV2ZY2TiLGxaaQ56ih_XzPVujDz/view)
+- I’m currently open for an Intern or a new job opportunity, this is [my CV](https://drive.google.com/file/d/1NRS32ogEtTGFBB_P9dTGo49NUfnE8m1p/view?usp=drive_link)
 
 <br>
 
